@@ -1,0 +1,28 @@
+body{
+    /* background-image: url("/image/download.jpg"); */
+    background-size: cover;
+}
+#h2{
+    width: 50%;
+    height: auto;
+}
+.grp1{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+border: 2px solid blue;
+}
+.circle{
+font-style: italic;
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin:  5% 30% 5% 40%;
+}
+.highlight-row {
+    border-bottom: 2px solid red;
+    color: black; 
+}
+.cp{
+    border-right: 2px solid black;
+    padding: 7px 10px 7px 10px;
+}
